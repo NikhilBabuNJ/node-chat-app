@@ -1,6 +1,8 @@
 console.log("server.js started...");
 
 
+console.log('merge this to that')
+
 var express = require('express');
 
 var path = require('path');
